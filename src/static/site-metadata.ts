@@ -10,7 +10,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Leedezhao Running',
+  siteTitle: "Lee's Running",
   siteUrl: 'https://lidezhao.run',
   logo: 'https://img-20210107.oss-cn-beijing.aliyuncs.com/img/20241231182849.png',
   description: 'Personal site and blog',
